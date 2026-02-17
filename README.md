@@ -92,7 +92,24 @@ hobbies:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sithija-jayasinghe&custom_title=Sithija's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <!-- GitHub Stats -->
+      <img 
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sithija-jayasinghe&show_icons=true&theme=dark"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <!-- Top Languages -->
+      <img 
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sithija-jayasinghe&theme=dark&hide_border=false&langs_count=10"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 ## 📫 Connect With Me
 
 <div align="center">
