@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="A terminal runs errbuddy on Sithija Harshana Jayasinghe: 0 errors found. A full-stack engineer who ships production software, leads a 10-developer ERP team and publishes open-source tools on npm.">
+<title>errbuddy explains Sithija</title>
+<style>
+.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace} .t{font-size:15px;fill:#1f2328} .d{fill:#59636e} .p{fill:#0969da} .g{fill:#8250df}
+.ok{fill:#1a7f37} .ac{fill:#1b7c83} .yl{fill:#9a6700}
+.name{font-size:22px;font-weight:700;fill:#0d1117} .lbl{font-size:13px;font-weight:700}
+.fade{opacity:0;animation:show .35s ease forwards} .cur{animation:blink 1s steps(1) infinite}
+@keyframes show{to{opacity:1}} @keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .fade { opacity: 1 !important; } }
+</style>
+<defs>
+<clipPath id="a"><rect x="0" y="40" height="30" width="0"><animate attributeName="width" dur=".9s" begin=".4s" fill="freeze" calcMode="discrete" values="0;70;90;110;130;150;170;900" keyTimes="0;.14;.28;.42;.56;.7;.85;1"/></rect></clipPath>
+<clipPath id="b"><rect x="0" y="122" height="30" width="0"><animate attributeName="width" dur="1.6s" begin="2.3s" fill="freeze" calcMode="discrete" values="0;90;130;170;210;250;290;330;370;410;900" keyTimes="0;.1;.2;.3;.4;.5;.6;.7;.8;.9;1"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="898" height="328" rx="12" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12-12h874a12 12 0 0 1 12 12v19H1z" fill="#e8ebef"/>
+<circle cx="22" cy="17" r="6" fill="#ff5f57"/><circle cx="42" cy="17" r="6" fill="#febc2e"/><circle cx="62" cy="17" r="6" fill="#28c840"/>
+<text x="450" y="21" text-anchor="middle" class="m d" font-size="12">sithija — zsh</text>
+<g clip-path="url(#a)"><text x="24" y="62" class="m t"><tspan class="p">~</tspan> <tspan class="g">❯</tspan> whoami</text></g>
+<g class="fade" style="animation-delay:1.4s"><text x="24" y="92" class="m name">Sithija Harshana Jayasinghe</text></g>
+<g class="fade" style="animation-delay:1.7s"><text x="24" y="114" class="m t d">Full-stack software engineer · Colombo, Sri Lanka</text></g>
+<g clip-path="url(#b)"><text x="24" y="144" class="m t"><tspan class="p">~</tspan> <tspan class="g">❯</tspan> errbuddy explain sithija</text></g>
+<g class="fade" style="animation-delay:4.2s"><text x="24" y="168" class="m t"><tspan class="ac">⠿</tspan> <tspan class="d">Scanning for errors…</tspan></text></g>
+<g class="fade" style="animation-delay:5s"><rect x="24" y="182" width="852" height="118" rx="8" fill="none" stroke="#1b7c83" stroke-width="1.5"/>
+<rect x="40" y="174" width="226" height="16" fill="#f6f8fa"/><text x="48" y="187" class="m ac" font-size="13" font-weight="700">errbuddy · 0 errors found</text></g>
+<g class="fade" style="animation-delay:5.4s"><text x="44" y="214" class="m lbl ac">WHAT</text><text x="104" y="214" class="m t">Not a bug. A developer who ships production software.</text></g>
+<g class="fade" style="animation-delay:5.8s"><text x="44" y="242" class="m lbl yl">WHY</text><text x="104" y="242" class="m t">Builds apps at Acumen Intelligence · leads a 10-dev ERP team</text><text x="104" y="262" class="m t">· publishes open-source tools on npm</text></g>
+<g class="fade" style="animation-delay:6.2s"><text x="44" y="288" class="m lbl ok">FIX</text><text x="104" y="288" class="m t">Nothing to fix. Scroll down for the projects <tspan class="ok">↓</tspan></text></g>
+<g class="fade" style="animation-delay:6.6s"><text x="24" y="318" class="m t"><tspan class="p">~</tspan> <tspan class="g">❯</tspan></text><rect x="52" y="305" width="9" height="16" fill="#1f2328" class="cur"/></g>
+</svg>

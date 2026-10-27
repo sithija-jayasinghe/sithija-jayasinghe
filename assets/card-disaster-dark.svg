@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="268" viewBox="0 0 430 268" role="img" aria-label="Disaster Management System: Hackathon platform I led: offline field reports that sync later, and a live command dashboard. Hackathon · 2025.">
+<title>Disaster Management System</title>
+<style>.s{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}</style>
+<defs><clipPath id="top"><path d="M1 13a12 12 0 0 1 12-12h404a12 12 0 0 1 12 12v137H1z"/></clipPath></defs>
+<rect x="1" y="1" width="428" height="266" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<defs><linearGradient id="gr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dc2626"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs><g clip-path="url(#top)"><rect width="430" height="150" fill="url(#gr)"/>
+<circle cx="370" cy="30" r="70" fill="#ffffff" fill-opacity=".08"/><circle cx="420" cy="120" r="50" fill="#ffffff" fill-opacity=".06"/>
+<text x="28" y="62" font-size="40">🚨</text><rect x="28" y="82" width="58" height="24" rx="12" fill="#ffffff" fill-opacity=".18"/><text x="57" y="98" text-anchor="middle" class="s" font-size="11" font-weight="800" letter-spacing=".6" fill="#ffffff">REPORT</text><rect x="96" y="82" width="66" height="24" rx="12" fill="#ffffff" fill-opacity=".18"/><text x="129" y="98" text-anchor="middle" class="s" font-size="11" font-weight="800" letter-spacing=".6" fill="#ffffff">OFFLINE</text><rect x="172" y="82" width="44" height="24" rx="12" fill="#ffffff" fill-opacity=".18"/><text x="194" y="98" text-anchor="middle" class="s" font-size="11" font-weight="800" letter-spacing=".6" fill="#ffffff">SYNC</text><rect x="226" y="82" width="81" height="24" rx="12" fill="#ffffff" fill-opacity=".18"/><text x="266" y="98" text-anchor="middle" class="s" font-size="11" font-weight="800" letter-spacing=".6" fill="#ffffff">DASHBOARD</text></g>
+<line x1="1" y1="150" x2="429" y2="150" stroke="#30363d"/>
+<rect x="296" y="120" width="118" height="20" rx="10" fill="#e10600"/>
+<text x="355" y="134" text-anchor="middle" class="s" font-size="11" font-weight="700" fill="#ffffff">Hackathon · 2025</text>
+<text x="20" y="180" class="s" font-size="17" font-weight="700" fill="#e6edf3">🚨 Disaster Management System</text>
+<text x="20" y="202" class="s" font-size="13" fill="#8b949e">Hackathon platform I led: offline field reports</text>
+<text x="20" y="220" class="s" font-size="13" fill="#8b949e">that sync later, and a live command dashboard.</text>
+<rect x="20" y="230" width="44" height="20" rx="10" fill="#161b22" stroke="#30363d"/><text x="42" y="244" text-anchor="middle" class="s" font-size="11" fill="#8b949e">React</text><rect x="70" y="230" width="62" height="20" rx="10" fill="#161b22" stroke="#30363d"/><text x="101" y="244" text-anchor="middle" class="s" font-size="11" fill="#8b949e">Firebase</text><rect x="138" y="230" width="31" height="20" rx="10" fill="#161b22" stroke="#30363d"/><text x="153" y="244" text-anchor="middle" class="s" font-size="11" fill="#8b949e">PWA</text>
+</svg>
