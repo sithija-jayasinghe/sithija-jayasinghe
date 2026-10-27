@@ -26,7 +26,7 @@ At **Acumen Intelligence** I build production apps end to end: a lead-management
 ## 🛠️ Shipped
 
 <p align="center">
-  <a href="https://github.com/sithija-jayasinghe/solution-ai-buddy-v1"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-errbuddy-dark.svg"><img src="./assets/card-errbuddy-light.svg" alt="errbuddy: wrap any command and get its errors explained in plain English, by a local LLM or Gemini. Published on npm." width="430"></picture></a>
+  <a href="https://github.com/sithija-jayasinghe/errbuddy"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-errbuddy-dark.svg"><img src="./assets/card-errbuddy-light.svg" alt="errbuddy: wrap any command and get its errors explained in plain English, by a local LLM or Gemini. Published on npm." width="430"></picture></a>
   <a href="https://github.com/sithija-jayasinghe/DMT"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-dmt-dark.svg"><img src="./assets/card-dmt-light.svg" alt="DMT Process Optimizer: trilingual app that replaced paper time studies at Sri Lanka's Department of Motor Traffic. Accepted by the DMT." width="430"></picture></a>
 </p>
 <p align="center">
