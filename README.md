@@ -26,15 +26,15 @@ At **Acumen Intelligence** I build production apps end to end: a lead-management
 ## 🛠️ Shipped
 
 <p align="center">
-  <a href="https://github.com/sithija-jayasinghe/errbuddy"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-errbuddy-dark.svg"><img src="./assets/card-errbuddy-light.svg" alt="errbuddy: wrap any command and get its errors explained in plain English, by a local LLM or Gemini. Published on npm." width="430"></picture></a>
-  <a href="https://github.com/sithija-jayasinghe/DMT"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-dmt-dark.svg"><img src="./assets/card-dmt-light.svg" alt="DMT Process Optimizer: trilingual app that replaced paper time studies at Sri Lanka's Department of Motor Traffic. Accepted by the DMT." width="430"></picture></a>
+  <a href="https://github.com/sithija-jayasinghe/errbuddy"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-errbuddy-dark.svg"><img src="./assets/card-errbuddy-light.svg" alt="errbuddy: wrap any command and get its errors explained in plain English, by a local LLM or Gemini. Published on npm." width="48%"></picture></a>
+  <a href="https://github.com/sithija-jayasinghe/DMT"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-dmt-dark.svg"><img src="./assets/card-dmt-light.svg" alt="DMT Process Optimizer: trilingual app that replaced paper time studies at Sri Lanka's Department of Motor Traffic. Accepted by the DMT." width="48%"></picture></a>
 </p>
 <p align="center">
-  <a href="https://shadesbyjay.site/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-shades-dark.svg"><img src="./assets/card-shades-light.svg" alt="Shades By Jay: 250+ copy-paste UI components with dark and light themes and a live code playground." width="430"></picture></a>
-  <a href="https://github.com/sithija-jayasinghe/BrightMindAid"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-brightmindaid-dark.svg"><img src="./assets/card-brightmindaid-light.svg" alt="BrightMindAid: free hub where Sri Lankan students share and request notes, past papers and revision cards." width="430"></picture></a>
+  <a href="https://shadesbyjay.site/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-shades-dark.svg"><img src="./assets/card-shades-light.svg" alt="Shades By Jay: 250+ copy-paste UI components with dark and light themes and a live code playground." width="48%"></picture></a>
+  <a href="https://github.com/sithija-jayasinghe/BrightMindAid"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-brightmindaid-dark.svg"><img src="./assets/card-brightmindaid-light.svg" alt="BrightMindAid: free hub where Sri Lankan students share and request notes, past papers and revision cards." width="48%"></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/NethmiAsinsala/Hackathon-Web-App"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-disaster-dark.svg"><img src="./assets/card-disaster-light.svg" alt="Disaster Management System: hackathon platform I led, with offline field reports that sync later and a live command dashboard." width="430"></picture></a>
+  <a href="https://github.com/NethmiAsinsala/Hackathon-Web-App"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-disaster-dark.svg"><img src="./assets/card-disaster-light.svg" alt="Disaster Management System: hackathon platform I led, with offline field reports that sync later and a live command dashboard." width="48%"></picture></a>
 </p>
 
 ## 🧰 Toolbox
